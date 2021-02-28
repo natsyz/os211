@@ -4,3 +4,10 @@
 ZCZC W00 10 L03 GitHub Related
 ZCZC W00 25 L06 Reading Documents
 ZCZC W00 15 L05 GSGS related
+ZCZC W00 60 L02 ZOOM related
+ZCZC W00 5 L04 GitHub Pages: setting
+ZCZC W00 60 L05 GSGS related
+ZCZC W00 120 L08 Trying something: making portfolio
+ZCZC W00 30 L27 Pets: feeding, playing, grooming
+ZCZC W00 15 L06 Reading References
+ZCZC W00 60 L21 VirtualBox: download and install VB
