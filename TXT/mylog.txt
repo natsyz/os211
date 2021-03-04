@@ -11,3 +11,13 @@ ZCZC W00 120 L08 Trying something: making portfolio
 ZCZC W00 30 L27 Pets: feeding, playing, grooming
 ZCZC W00 15 L06 Reading References
 ZCZC W00 60 L21 VirtualBox: download and install VB
+ZCZC W01 10 L00 General Log
+ZCZC W01 120 L02 ZOOM related
+ZCZC W01 120 L11 Assignment #1: Installing guest on VB, More Debian Packages
+ZCZC W01 60 L12 Assignment #2: Read 'Basic Linux Commands' and other linux related; Youtube 'The Complete Linux Course'
+ZCZC W01 30 L13 Assignment #3: Learn/Try basic CLI, The vi editor
+ZCZC W01 30 L13 Assignment #3: Some essential command
+ZCZC W01 5 L06 Reading references on osp4diss.vlm.org
+ZCZC W01 50 L14 Assignment #4: Guest UserName, .bash_aliases
+ZCZC W01 60 L15 Assignment #5: git & github repos
+ZCZC W01 5 L16 Assignment #6: Update mylog.txt
