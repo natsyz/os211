@@ -10,7 +10,7 @@ Weekly Top 10 List:
 2. [W02](https://natsyz.github.io/os211/W02/)
 3. [W03](https://natsyz.github.io/os211/W03/)
 
-Others Related Link:
+Other Related Links:
 
 1. [Repository](https://github.com/natsyz/os211)
 2. [Log](https://natsyz.github.io/os211/TXT/mylog.txt)
