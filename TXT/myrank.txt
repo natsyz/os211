@@ -2,3 +2,6 @@
 ZCZC W01 night1010
 ZCZC W01 originica
 ZCZC W01 prajnapras19
+ZCZC W02 nisadn
+ZCZC W02 prajnapras19
+ZCZC W02 pinatnat

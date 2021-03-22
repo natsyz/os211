@@ -43,4 +43,19 @@ ZCZC W02 30 L27 Pets: feeding, grooming, play
 ZCZC W02 120 L13 Assignment #3: C and Permission
 ZCZC W02 60 L17 Assignment #7: myrank.txt
 ZCZC W02 60 L18 Assignment #8: Top 10 list
-ZCZC W02 1 L11 Assignment #1 
+ZCZC W02 1 L11 Assignment #1
+ZCZC W03 100 L02 ZOOM related
+ZCZC W03 30 L01 SCELE related: Pop Quiz
+ZCZC W03 30 L27 Pets: Feeding, playing, grooming
+ZCZC W03 50 L26 Movie: relax
+ZCZC W03 10 L13 Assignment #3: Check .bash_aliases
+ZCZC W03 60 L17 Assignment #7: tar, FUSE
+ZCZC W03 12 L18 Assignment #8: Update  myscript.sh
+ZCZC W03 8 L19 Assignment #9: Sign SHA256SUM
+ZCZC W03 120 L11 Assigment #1: Read OSC-10
+ZCZC W03 60 L12 Assignment #2: Try Demos
+ZCZC W03 30 L14 Assignment #4: myrank.txt
+ZCZC W03 115 L05 GSGS related
+ZCZC W03 60 L15 Assignment #5: Top 10 List
+ZCZC W03 10 L16 Assignment #6: Update log
+ZCZC W03 30 L23 Discord: Pop Quiz
