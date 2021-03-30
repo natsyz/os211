@@ -59,3 +59,17 @@ ZCZC W03 115 L05 GSGS related
 ZCZC W03 60 L15 Assignment #5: Top 10 List
 ZCZC W03 10 L16 Assignment #6: Update log
 ZCZC W03 30 L23 Discord: Pop Quiz
+ZCZC W04 125 L02 ZOOM related
+ZCZC W04 10 L01 SCELE related
+ZCZC W04 30 L27 Pets: Playing, grooming
+ZCZC W04 50 L26 Movie: relax
+ZCZC W04 60 L16 Assignment #6: WEEK04-TLPI.txt
+ZCZC W04 150 L11 Assignment #1: Read OSC-10 Chap.9
+ZCZC W04 60 L12 Assignment #2: Try demos
+ZCZC W04 30 L23 Discord: Pop Quiz
+ZCZC W04 30 L13 Assignment #3: myrank.txt
+ZCZC W04 95 L05 GSGS related
+ZCZC W04 60 L14 Assignment #4: Top 10 List
+ZCZC W04 15 L15 Assignment #5: Update log
+ZCZC W04 5 L17 Assignment #7: Update myscript.sh
+ZCZC W04 5 L18 Assignment #8: Sign SHA256SUM
