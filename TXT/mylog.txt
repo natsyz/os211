@@ -73,3 +73,14 @@ ZCZC W04 60 L14 Assignment #4: Top 10 List
 ZCZC W04 15 L15 Assignment #5: Update log
 ZCZC W04 5 L17 Assignment #7: Update myscript.sh
 ZCZC W04 5 L18 Assignment #8: Sign SHA256SUM
+ZCZC W05 90 L02 ZOOM related
+ZCZC W05 120 L14 Assignment #4: WEEK05-DEMO05, banner
+ZCZC W05 30 L27 Pets: Playing, Feeding, Grooming
+ZCZC W05 50 L26 Movie: relax
+ZCZC W05 150 L11 Assignment #1: Read OSC10 chapter 10
+ZCZC W05 30 L23 Discord: Pop Quiz
+ZCZC W05 120 L05 GSGS related
+ZCZC W05 60 L13 Assignment #3: Top 10 List
+ZCZC W05 30 L12 Assignment #2: myrank.txt
+ZCZC W05 10 L15 Assignment #5: Update log
+ZCZC W05 5 L16 Assignment #6: Sign SHA256SUM

@@ -8,3 +8,6 @@ ZCZC W02 pinatnat
 ZCZC W03 ni-tami
 ZCZC W03 naufaladi35
 ZCZC W03 prajnapras19
+ZCZC W04 naufaladi35
+ZCZC W04 nisadn
+ZCZC W04 novihdn
