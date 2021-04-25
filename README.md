@@ -11,6 +11,7 @@ Weekly Top 10 List:
 3. [W03](https://natsyz.github.io/os211/W03/)
 4. [W04](https://natsyz.github.io/os211/W04/)
 5. [W05](https://natsyz.github.io/os211/W05/)
+6. [W06](https://natsyz.github.io/os211/W06/)
 
 Other Related Links:
 
