@@ -14,3 +14,6 @@ ZCZC W04 novihdn
 ZCZC W05 ni-tami
 ZCZC W05 night1010
 ZCZC W05 originica
+ZCZC W06 novihdn
+ZCZC W06 pinatnat
+ZCZC W06 originica

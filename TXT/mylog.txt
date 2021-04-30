@@ -95,3 +95,16 @@ ZCZC W06 60 L13 Assignment #3: Top 10 List
 ZCZC W06 30 L12 Assignment #2: myrank.txt 
 ZCZC W06 15 L15 Assignment #5: Update log
 ZCZC W06 5 L16 Assignment #6: Sign SHA256SUM
+ZCZC W07 90 L02 ZOOM related
+ZCZC W07 30 L01 SCELE related: quiz
+ZCZC W07 30 L27 Pets: playing
+ZCZC W07 150 L11 Assignment #1: Read OSC10 Chap 6, 7, and 8
+ZCZC W07 120 L05 GSGS related
+ZCZC W07 60 L13 Assignment #3: Top 10 List
+ZCZC W07 30 L12 Assignment #2: myrank.txt
+ZCZC W07 50 L14 Assignment #4: WEEK7-REPORT
+ZCZC W07 40 L07 Demo related: W06, W07, W08
+ZCZC W07 10 L09 AsDos: demo
+ZCZC W07 50 L26 Movie: relax
+ZCZC W07 10 L15 Assignment #5: Update log
+ZCZC W07 2 L16 Assignment #6: Sign SHA256SUM
