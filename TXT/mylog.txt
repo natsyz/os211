@@ -108,3 +108,12 @@ ZCZC W07 10 L09 AsDos: demo
 ZCZC W07 50 L26 Movie: relax
 ZCZC W07 10 L15 Assignment #5: Update log
 ZCZC W07 2 L16 Assignment #6: Sign SHA256SUM
+ZCZC W08 90 L02 ZOOM related
+ZCZC W08 60 L01 SCELE related: quiz
+ZCZC W08 90 L11 Assigment #1: Read OSC10 Chap 5
+ZCZC W08 30 L12 Assignment #2: myrank.txt
+ZCZC W08 180 L13 Assignment #3: LFS
+ZCZC W08 120 L05 GSGS related
+ZCZC W08 10 L14 Assignment #4: my08.tar.bz2.asc
+ZCZC W08 10 L15 Assignment #5: Update log
+ZCZ W08 2 L16 Assignment #6: Sign SHA256SUM
