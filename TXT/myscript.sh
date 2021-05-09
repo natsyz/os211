@@ -16,7 +16,7 @@
 # You new to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
 
-REC2="7783563A50418127B0539F441D4E66B192E306CC"
+REC2="E76AE260A57ED5B22973DF246FC9D289D6E28E58"
 REC1="operatingsystems@vlsm.org"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
@@ -57,5 +57,4 @@ echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
 exit 0
-
 
