@@ -118,3 +118,15 @@ ZCZC W08 30 L27 Pets: playing
 ZCZC W08 10 L14 Assignment #4: my08.tar.bz2.asc
 ZCZC W08 10 L15 Assignment #5: Update log
 ZCZC W08 2 L16 Assignment #6: Sign SHA256SUM
+ZCZC W09 90 L02 ZOOM related
+ZCZC W09 30 L01 SCELE related: Pop Quiz
+ZCZC W09 30 L05 Discord: Pop Quiz
+ZCZC W09 60 L11 Assigment #1: Read OSC10 Chap 5
+ZCZC W09 240 L14 Assignment #4: LFS chap5-7
+ZCZC W09 30 L12 Assignment #2: myrank.txt
+ZCZC W09 60 L13 Assignment #3: Top 10 list
+ZCZC W09 120 L05 GSGS related
+ZCZC W09 30 L27 Pets: playing
+ZCZC W09 10 L15 Assignment #5: my09.tar.bz2.asc
+ZCZC W09 10 L16 Assignment #6: Update log
+ZCZC W09 2 L17 Assignment #7: Sign SHA256SUM
